@@ -1,0 +1,285 @@
+<html>
+<title>Mon sport préféré</title>
+<head>
+<div style="background-color:black">
+<div style="color:white">La page HTML de Lebrun Gwendal</div>
+
+
+
+<center><FONT size="6pt"><p style="color:black;background-color:white">Mon sport pr&eacute;féré est le tennis et c'est aussi un sport que je pratique en club<p style="color:white;background-color:black"></FONT size="6pt"></center>
+
+<center>
+
+</br><div style="color:black"> <FONT size="5pt"><I><span class="box"><span style="text-decoration: underline;"><a name="revenir-au-sommaire">Sommaire:</a></span></span></I></br></FONT size="5pt"></div></br>
+<span class="box1">1)<a title="le paragraphe sur le matériel nécessaire pour y jouer"href="#Le-matériel-nécessaire-pour-y-jouer">Le matériel nécessaire pour y jouer</a></span></br></br>
+<span class="box2">2)<a title="le paragraphe sur les différents types de balles"href="#Les-différents-types-de-balles">Les différents types de balles</a></span></br></br>
+<span class="box3">3)<a title="le paragraphe sur les règles du tennis"href="#Les-règles-du-tennis">Les règles du tennis</a></span></br></br>
+<span class="box4">4)<a title="le paragraphe sur les différents coups au tennis"href="#Les-différents-coups-au-tennis">Les différents coups au tennis</a></span></br></br>
+<span class="box5">5)<a title="le paragraphe sur le top 10 des meilleurs joueurs mondiaux masculins en 2021"href="#le-top-10-des-meilleurs-joueurs-mondiaux-masculins-en-2021">Le top 10 mondial masculin en 2021</a></span></br></br>
+<span class="box6">6)<a title="le paragraphe sur le top 10 des meilleurs joueurs mondiaux féminins en 2021"href="#le-top-10-des-meilleurs-joueurs-mondiaux-féminins-en-2021">Le top 10 mondial féminin en 2021</a></span></br></br>
+</center>
+ <style type="text/css">
+ .box { border:10px solid black;border-color:white;background-color:white;padding-right:77px;padding-left:77;} 
+ .box1{ border:10px solid black;border-color:white;background-color:white;padding-right:10px;padding-left:10;}
+ .box2{ border:10px solid black;border-color:white;background-color:white;padding-right:30px;padding-left:30;}
+ .box3{ border:10px solid black;border-color:white;background-color:white;padding-right:59px;padding-left:59;}
+ .box4{ border:10px solid black;border-color:white;background-color:white;padding-right:27px;padding-left:27;}
+ .box5{ border:10px solid black;border-color:white;background-color:white;padding-right:6px;padding-left:6;}
+ .box6{ border:10px solid black;border-color:white;background-color:white;padding-right:10px;padding-left:10;}
+ 
+ 
+ </style>
+
+</br>
+
+
+<head/>
+
+<body>
+
+<div style="background-image:url('https://julienalour.files.wordpress.com/2013/12/wallpaper-fonds-decran-arriere-plan-pour-site-web-2-0-full-hd.jpg');background-size:1700px 1400px;">
+
+
+
+<center><p style="color:black;background-color:red"><FONT size="6pt"><a name="Le-matériel-nécessaire-pour-y-jouer">Le matériel nécessaire pour y jouer</a></FONT size="6pt"><p style="color:black;background-color:red"></center>
+
+
+
+
+
+
+<div style="color:white">
+
+</br><center><FONT size="5pt"> Une raquette de tennis:<FONT size="5pt"></center>
+
+</br><center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXQQRgOnon-J1g3r1bQnz8597IcB5XtVc_A&usqp=CAU.jpg"height=350px></center></br>
+
+<center><FONT size="5pt"> Des balles de tennis:<FONT size="5pt"></center>
+
+</br><center><img src="https://medias.lequipe.fr/img-ilosport-jpg/balle-tennis/1500000000280016/0-640-322-75/cbe8e.jpg"height=350px"></center></br>
+
+<center><FONT size="5pt"> Et une tenue de sport:<FONT size="5pt"></center>
+
+</br><center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFE9PgdPwv_V72wuXdzpuzm0kogQewCMam4mot5jw71RQs2EK9wA5hc4PBeWrn3Hh0BeAcnaM&usqp=CAc.jpg"></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+
+
+<center><p style="color:white;background-color:blue"><FONT size="6pt"><a name="Les-différents-types-de-balles">Les différents types de balles</a></FONT size="6pt"><p style="color:white;background-color:blue"></center>
+
+
+
+<center><li><span style="text-decoration: underline;">La balle mousse, plastique ou feutre point rouge(Balle rouge)</span></li></center>
+
+<center><li>Les balles rouges (enfants de 5 à 7 ans) sont 75 % plus lentes que les balles normales et rebondissent à une hauteur de 85-105 cm.</li></center>
+
+<center><img src="https://media.intersport.fr/is/image/intersportfr/234453_TW5_Q1?.jpg"height=150px"></center></br></br>
+
+<center><li><span style="text-decoration: underline;">La balle orange</span></li></center>
+
+<center><li>Les balles orange (enfant de 8-9 ans) sont 50 % plus lentes que les balles normales et rebondissent à une hauteur de 105-120cm.</li></center>
+
+<center><img src="https://media.intersport.fr/is/image/intersportfr/234454_HUQ_Q1?.jpg"height=150px"></center></br></br>
+
+<center><li><span style="text-decoration: underline;">La balle verte</span></li></center>
+
+<center><li> balles vertes (âge de l’enfant 9-10 ans), ces balles sont 25 % plus lentes que les balles normales et rebondissent à une hauteur de 120-135cm.</li></center>
+
+<center><img src="https://contents.mediadecathlon.com/p1968045/k.jpg"height=150px"></center></br></br>
+
+<center><li><span style="text-decoration: underline;">La balle normale,classique(avec pression)</span></li></center>
+
+<center><li>Les balles avec pression contiennent un gaz dont la pression est supérieure à celle de la pression atmosphérique (environ 2 bars de pression), c'est pourquoi on les appelle des balles avec pression.C'est le maintien de la pression de ce gaz qui garantit la qualité du rebond de la balle.</li></center>
+
+<center><img src="https://m.media-amazon.com/images/I/711zmtRv86L._AC_SX679_.jpg"height=150px"></center></br></br>
+
+<center><li><span style="text-decoration: underline;">La balle normale,classique(sans pression)</span></li></center>
+
+<center><li>Les balles de tennis sans pression sont des balles dont le rebond n'est pas produit par un gaz sous pression, comme pour les balles avec pression, mais seulement par les propriétés du caoutchouc qui compose la balle.Ainsi le rebond de la balle est plus fort, grâce à un caoutchouc plus dur.</li></center>
+
+<center><img src="https://m.media-amazon.com/images/I/71D1dzKnLmL._AC_SX679_.jpg"height=150px"></center></br>
+
+</br><center><strong>cliquez <a href="https://www.youtube.com/watch?v=Vs7peCpBUvA ">ici </a>pour plus d'information sur les balles de tennis</strong></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+<center><p style="color:black;background-color:green"><FONT size="6pt"><a name="Les-règles-du-tennis">Les règles du tennis</a></FONT size="6pt"><p style="color:black;background-color:green"></center>
+
+<center><li><span style="text-decoration: underline;">Les limites du terrain</span></li></center></br>
+
+<center><li>Les lignes blanches délimitent les frontières externes du terrain ainsi que les zones internes.</center></li>
+
+<center><img src="https://ak.picdn.net/shutterstock/videos/1066663318/thumb/1.jpg?ip=x480.jpg"height=275px></center>
+
+<center><li>Les longues bandes sur les côtés sont les « couloirs », dans lesquels on ne joue que dans les jeux en double.</center></li>
+
+<center><li> Il faut bien envoyer la balle avant la ligne de fond de court, au-delà de laquelle elle est considérée comme « out »(faute).</center></li>
+
+<center><li>Dans le cas où la balle tombe pile-poil sur une ligne, sa justesse est décidée par l’arbitre ainsi que les juges de ligne et l’arbitrage vidéo.</center></li>
+
+<center><li>La ligne de fond de court et les couloirs sont les seules zones à éviter lors du jeu.</center></li>
+
+<center><li>Les quatres carrés proches du filets sont les "carrés de service".</center></li></br></br>
+
+<center><li><span style="text-decoration: underline;">Le service</span></li></center></br>
+
+<center><li>Le service s’effectue depuis la ligne de fond de court ou derrière celle-ci, en diagonale : la balle doit arriver dans le carré de service de l’autre côté du filet, à gauche si le service s’effectue depuis le côté droit (et inversement).</center></li>
+
+<center><li>Si la balle n'atterrit pas dans le carré de service, le serveur a le droit à un second service.</li></center> 
+
+<center><li>Si le second service lui aussi n'atterrit pas dans le carré de service, alors c'est une "double faute" et l'adversaire remporte le point.</center></li></br>
+
+</br><center><strong>cliquez <a href=" https://www.youtube.com/watch?v=i7DPj3q6eUM">ici </a>pour plus d'information sur les règles du tennis</strong></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+<center><p style="color:white;background-color:purple"><FONT size="6pt"><a name="Les-différents-coups-au-tennis">Les différents coups au tennis</a> </FONT size="6pt"><p style="color:white;background-color:purple"></center>
+
+<center><li><span style="text-decoration: underline;">Les coups fondamentaux</span></li></center>
+
+ <strong><center><li>Le coup droit:</li></center></strong>
+
+ <center><li>Dans la plupart des cas, il s’agit d’un coup frappé de bas en haut. Cela donne un niveau d’effet modéré permettant à la balle de s’élever au-dessus du filet, tout en gardant assez de contrôle pour l’empêcher de sortir des limites du terrains.</li></center>
+
+</br><strong><center><li>Le revers:</li></center></strong>
+
+<center><li>Le revers est un coup droit effectué à gauche pour un droitier et à droite pour un gaucher</li></center></br>
+
+<center><li><span style="text-decoration: underline;">Les effets</span></li></center>
+
+</br><strong><center><li>Le lift:</li></center></strong>
+
+<center><li>Au moment de la frappe, les cordes frottent la balle du bas vers le haut, ce qui fait tourner la balle vers l'avant et produit l'effet lifté.</li></center>
+
+</br><strong><center><li>Le slice:</li></center></strong>
+
+<center><li>Le slice est un coup qui consiste à frapper la balle de haut en bas et latéralement pour lui donner de l'effet.</li></center>
+
+</br><center><strong>cliquez <a href="https://www.youtube.com/watch?v=yUTKeurMOgM">ici </a>pour plus d'information sur les coups et effets au tennis</strong></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+
+
+<center><p style="color:white;background-color:orange"><FONT size="6pt"><a name="le-top-10-des-meilleurs-joueurs-mondiaux-masculins-en-2021">Le top 10  mondial masculin en 2021</a></FONT size="6pt"><p style="color:white;background-color:orange"></center>
+
+<center><FONT size="5pt"> Le numéro 1 mondial: <strong>N. Djokovic</strong><FONT size="5pt"></center>
+
+<center><img src="https://brandandcelebrities.com/wp-content/uploads/2019/03/125-Novak-Djokovic.gif"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 2 mondial:<strong>D. Medvedev</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.leparisien.fr/resizer/BtjCEsQncxjjP7IA1F5PUYId1oY=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3NI4D5ZJ2ILWDVYY6SXDO35PR4.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 3 mondial:<strong>S. Tsitsipas</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.tennisworldfr.com/imgb/14277/stefanos-tsitsipas-se-souvient-s-etre-saoule-pour-la-premiere-fois.jpg"height=225px></center></br>
+
+<center><FONT size="5pt"> Le numéro 4 mondial:<strong>A. Zverev</strong><FONT size="5pt"></center>
+
+<center><img src="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(997x494:999x492)/origin-imgresizer.eurosport.com/2021/09/08/3215610-65867468-2560-1440.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 5 mondial:<strong>A. Rublev</strong><FONT size="5pt"></center>
+
+<center><img src="https://cdn-s-www.ledauphine.com/images/E2AEC1E0-23EE-46AB-871B-9DA31CF7E092/NW_raw/le-joueur-russe-andrey-rublev-au-tournoi-de-monte-carlo-photo-valery-hache-afp-1618821005.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 6 mondial:<strong>R. Nadal</strong><FONT size="5pt"></center>
+
+<center><img src="https://media1.ledevoir.com/images_galerie/nwd_628741_477687/image.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 7 mondial:<strong>M. Berrettini</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.tennisworldusa.org/imgb/102519/matteo-berrettini-i-m-looking-forward-to-alexander-zverev-clash-.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 8 mondial:<strong>D. Thiem</strong><FONT size="5pt"></center>
+
+<center><img src="https://cdn-s-www.vosgesmatin.fr/images/D10E88B5-1BD4-404F-A064-33A20EB64D54/NW_raw/dominic-thiem-peut-il-faire-vaciller-novak-djokovic-qui-n-a-perdu-aucune-de-ses-sept-finales-a-melbourne-photo-saeed-khan-afp-1580592923.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 9 mondial:<strong>R. Federer</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.leparisien.fr/resizer/DkCk-15sFAJmT5B6FBuNljlOCi8=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/DXFXSJJWG3XTLQRE24T6SXXWW4.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">Le numéro 10 mondial:<strong>C. Ruud</strong><FONT size="5pt"></center>
+
+<center><img src="https://pbs.twimg.com/profile_images/1229580621384601600/yx1mJPYO_400x400.jpg"height=225px></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+
+
+<center><p style="color:black;background-color:yellow"><FONT size="6pt"><a name="le-top-10-des-meilleurs-joueurs-mondiaux-féminins-en-2021">Le top 10 mondial féminin en 2021</a></FONT size="6pt"><p style="color:black;background-color:yellow"></center>
+
+<center><FONT size="5pt"> La numéro 1 mondial: <strong>	A. Barty</strong><FONT size="5pt"></center>
+
+<center><img src="https://wesportfr.com/wp-content/uploads/2021/04/200328-Ashleigh-Barty-a-Miami-2019.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 2 mondial:<strong>A. Sabalenka</strong><FONT size="5pt"></center>
+
+<center><img src="https://tennisbreaknews.com/wp-content/uploads/2020/08/panoramic_PANOWTADOHADEMI28022020_046.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 3 mondial:<strong>K. Pliskova</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.lequipe.fr/_medias/img-photo-jpg/karolina-pliskova-qualifiee-en-quarts-j-lai-usa-today-sports/1500000001539264/0:0,1997:1331-828-552-75/84a84.jpg"height=225px></center></br>
+
+<center><FONT size="5pt"> La numéro 4 mondial:<strong>E. Svitolina</strong><FONT size="5pt"></center>
+
+<center><img src="https://mobile-img.lpcdn.ca/lpca/924x/r3996/83887a6b-13d3-11eb-b8ad-02fe89184577.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 5 mondial:<strong>B. Krejcikova</strong><FONT size="5pt"></center>
+
+<center><img src="https://tennisconnected.com/home/wp-content/uploads/2021/06/https-prod.static9.net_.au-fs-8a3cb862-7fe2-4610-8e85-4438386ef6e2.jpeg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 6 mondial:<strong>I. Swiatek</strong><FONT size="5pt"></center>
+
+<center><img src="https://www.tennisworldfr.com/imgb/13931/iga-swiatek--a-tokyo-2020-je-souhaite-realiser-mes-reves-.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 7 mondial:<strong>S. Kenin</strong><FONT size="5pt"></center>
+
+<center><img src="https://images.wsj.net/im-149911?width=1280&size=1.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 8 mondial:<strong>N. Osaka</strong><FONT size="5pt"></center>
+
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/NaomiOsaka-smile-2020.png/1200px-NaomiOsaka-smile-2020.png"height=250px ></center></br>
+
+<center><FONT size="5pt">La numéro 9 mondial:<strong>G. Muguruza</strong><FONT size="5pt"></center>
+
+<center><img src="https://images.prismic.io/fft-rg-commun-news/c63823df-7b21-404a-9883-974bed499f36_20200123_OA_CD_5469_web.jpg?auto=compress,format&rect=0,0,1000,666&w=380&h=253.jpg"height=225px></center></br>
+
+<center><FONT size="5pt">La numéro 10 mondial:<strong>P. Kvitova</strong><FONT size="5pt"></center>
+
+<center><img src="https://boowiki.info/images/b540_17/220px-Petra_Kvitova_Final_Wimbledon_2011.jpg"height=225px></center></br>
+
+<center><a title="revenir au sommaire"href="#Revenir-au-sommaire">Revenir au sommaire</a></center>
+
+
+
+
+
+</div style="color:white">
+
+
+
+
+
+
+
+
+
+</br></br></br></br>
+</body>
+
+
+
+
+</html>
